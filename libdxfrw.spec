@@ -5,7 +5,7 @@ Summary:        Library to read and write DXF files in ascii and binary form
 
 License:        GPLv2+
 URL:            http://sourceforge.net/projects/libdxfrw/
-Source0:        %{name}-%{version}.tar.bz2
+Source0:        http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.bz2
 
 BuildRequires:  pkgconfig
 BuildRequires:  libtool
